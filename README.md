@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SpartanKing08
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Small Data Science Projects
+- 📫 How to reach me: gauravninawe008@gmail.com
